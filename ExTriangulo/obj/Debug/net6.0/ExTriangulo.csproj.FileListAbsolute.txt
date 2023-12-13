@@ -1,0 +1,15 @@
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\bin\Debug\net6.0\ExTriangulo.exe
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\bin\Debug\net6.0\ExTriangulo.deps.json
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\bin\Debug\net6.0\ExTriangulo.runtimeconfig.json
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\bin\Debug\net6.0\ExTriangulo.dll
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\bin\Debug\net6.0\ExTriangulo.pdb
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\obj\Debug\net6.0\ExTriangulo.csproj.AssemblyReference.cache
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\obj\Debug\net6.0\ExTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\obj\Debug\net6.0\ExTriangulo.AssemblyInfoInputs.cache
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\obj\Debug\net6.0\ExTriangulo.AssemblyInfo.cs
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\obj\Debug\net6.0\ExTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\obj\Debug\net6.0\ExTriangulo.dll
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\obj\Debug\net6.0\refint\ExTriangulo.dll
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\obj\Debug\net6.0\ExTriangulo.pdb
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\obj\Debug\net6.0\ExTriangulo.genruntimeconfig.cache
+C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\obj\Debug\net6.0\ref\ExTriangulo.dll

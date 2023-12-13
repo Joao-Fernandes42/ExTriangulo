@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExTriangulo</id>
+    <version>1.0.0</version>
+    <authors>ExTriangulo</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\bin\Debug\net6.0\ExTriangulo.runtimeconfig.json" target="lib\net6.0\ExTriangulo.runtimeconfig.json" />
+    <file src="C:\Users\AEMaximinos\Desktop\Psi A\ExTriangulo\ExTriangulo\bin\Debug\net6.0\ExTriangulo.dll" target="lib\net6.0\ExTriangulo.dll" />
+  </files>
+</package>
